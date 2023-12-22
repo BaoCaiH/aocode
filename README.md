@@ -1,4 +1,4 @@
-# aocode
-Advent of Code again
+# aoc
+Advent of code
 
-Horrible code alert!
+HORRIBLE CODE ALERT!!!
