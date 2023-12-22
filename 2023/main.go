@@ -67,4 +67,5 @@ func main() {
 	day19.Airflow()
 	fmt.Println("Day 20 is again in python, too complicated and too lazy to do in go")
 	fmt.Println("\tAlso python std libraries are so darn fast")
+	fmt.Println("From day 21 it will just be python. I'm tired :))). Not very good in Go yet and it's taking longer and longer.")
 }
